@@ -21,4 +21,5 @@ public class ProgramTest1 {
         public void test4() {
             assertEquals(3600, Eda_Bit_Aidin.convert(60));
         }
+
 }
